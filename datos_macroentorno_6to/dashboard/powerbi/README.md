@@ -1,7 +1,5 @@
 # Dashboard Power BI
 
-Guardar aquí el archivo `.pbix` del dashboard.
-
 El dashboard debe tener tres páginas:
 
 1. Economía ecuatoriana.
