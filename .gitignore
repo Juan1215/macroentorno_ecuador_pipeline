@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+logs/*.log
+*.pbix
+*.xlsx
+*.xls
+*.csv
+*.zip
