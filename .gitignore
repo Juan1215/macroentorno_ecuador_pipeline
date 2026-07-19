@@ -5,6 +5,7 @@ __pycache__/
 .ipynb_checkpoints/
 logs/*.log
 *.pbix
+!1P-Dashboard_C.pbix
 *.xlsx
 *.xls
 *.csv
